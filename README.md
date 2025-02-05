@@ -58,7 +58,7 @@ python Final11.py
 .
 ├── main.py                 # Main application script (OffsideGUI and related classes)
 ├── requirements.txt        # List of required libraries
-├── sample_outputs/         # Folder containing sample output images
+├── Out/                    # Folder containing sample output images
 └── README.md               # Project documentation (this file)
 ```
 
