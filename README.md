@@ -20,7 +20,6 @@ Below are some sample outputs from the application:
 ![Offside Line](Offside-Detection-In-Football/01-(Out).jpg)
 ---
 
-*Note: Replace `sample_outputs/sample_original.jpg` and `sample_outputs/sample_offside.jpg` with the actual paths or URLs of your output images.*
 
 ## 🛠 Installation & Setup
 
