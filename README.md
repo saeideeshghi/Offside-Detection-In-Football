@@ -25,10 +25,24 @@ The user interface supports both English and Persian.
 
 #### Offside Line Visualization
 ![Offside Line](Offside-Detection-In-Football/01-(Out).jpg)
+---
 
-🛠 Installation & Setup
-Prerequisites
-Python 3.8+
-A GPU is optional (CPU is sufficient for most tasks)
-Required Libraries
-Create a file named requirements.txt with the following content:
+## 🛠 Installation & Setup
+### Prerequisites
+- Python 3.8+
+- A GPU is optional (CPU is sufficient for most tasks)
+### Required Libraries
+#### Create a file named requirements.txt with the following content:
+---
+
+---txt
+opencv-python
+numpy
+torch
+torchvision
+tkinter
+Pillow
+scikit-learn
+
+---
+
